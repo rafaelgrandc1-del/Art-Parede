@@ -1,0 +1,6 @@
+{
+  "name": "Art Parede",
+  "description": "Catálogo exclusivo de pinturas decorativas de alto padrão para arquitetos e clientes de luxo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
